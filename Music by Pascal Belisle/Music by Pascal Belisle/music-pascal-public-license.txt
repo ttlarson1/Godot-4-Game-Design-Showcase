@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Music by Pascal Belisle
 
 www.patreon.com/thetoadz
@@ -6,3 +7,13 @@ www.soundcloud.com/thetoadz
 Music License
 You are free to use the music in your projects as long as you give appropriate credit.
  
+=======
+Music by Pascal Belisle
+
+www.patreon.com/thetoadz
+www.soundcloud.com/thetoadz
+
+Music License
+You are free to use the music in your projects as long as you give appropriate credit.
+ 
+>>>>>>> 1066ff78c72f71e978f27b140d3a378df61dc63b
